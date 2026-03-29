@@ -1,4 +1,4 @@
-<h1 align="center" >🎉Maker-IoT🚀Atlas-200I-DK-A2🎉</h1>
+<h1 align="center" >羊只疾病识别算法-昇腾部署指南</h1>
 
 <!-- <p align="center"> -->
 <!-- <img width="210" height="180" align="left" style="float: left; margin: 0 10px 0 0;" src="img/iot水晶图-抠图版.png" alt="Iot水晶标"/> -->
